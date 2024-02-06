@@ -16,9 +16,6 @@ if __name__ == "__main__":
 
     subprocess.run('pmset disablesleep 1', shell=True)
 
-    # with open("wakey_logo.txt") as f:
-        # print(f.read())
-
     print("Your mac is holding its eyes open...")
 
     while True:
