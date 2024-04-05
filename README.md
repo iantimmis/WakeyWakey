@@ -1,4 +1,4 @@
-# WakeyWakey
+# Wakey
 
 Completely disables the ability for a mac to sleep. 
 
