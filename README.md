@@ -12,7 +12,7 @@ Option 1:
 
 This will disable sleep and hang. Once you terminate the program, sleeping will be re-enabled.
 ```bash
-sudo python {repo_dir}/wakey.py
+sudo python {root}/wakey.py
 ```
 
 Option 2: 
@@ -21,10 +21,10 @@ If you would like to avoid leaving the wakey program hanging / occupying a termi
 
 To disable sleep
 ```bash
-sudo python {repo_dir}/wakey.py -on
+sudo python {root}/wakey.py -on
 ```
 
 To enable sleep
 ```bash
-sudo python {repo_dir}/wakey.py -off
+sudo python {root}/wakey.py -off
 ```
